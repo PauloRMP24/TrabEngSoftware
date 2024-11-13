@@ -73,6 +73,22 @@ public class Turma {
 	public void setDisciplina(Disciplina disciplina) {
 		this.disciplina = disciplina;
 	}
+
+	public void cadastrarTurma() {
+		
+	}
+
+	public void selecionarTurma() {
+		
+	}
+
+	public void selecionarDisciplina(Disciplina disciplina) {
+		
+	}
+
+	public void selecionarProfessr (Professor Professor) {
+		
+	}
 	
 	public void adicionarAluno(Aluno aluno) {
 		
