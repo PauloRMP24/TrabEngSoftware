@@ -47,9 +47,16 @@ public class Matricula {
 	public void setTurma(Turma turma) {
 		this.turma = turma;
 	}
-	
+
 	public void registrarAlunoTurma(Aluno aluno, Turma turma) {
 		
 	}
 
+	public void selecionarTurma(Turma turma) {
+		
+	}
+
+	public void confirmarMatricula () {
+	
+	}
 }
